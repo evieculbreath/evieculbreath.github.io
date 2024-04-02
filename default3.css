@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    font-size: 18
+    font-family:
+}
+
+body{
+    background-color: aliceblue;
+}
+
+p{
+    text-indent: 20px;
+}
+
+hr{
+    color: red;
+    height: 10px;
+    width: 50%
+}
