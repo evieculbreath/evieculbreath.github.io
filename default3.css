@@ -1,19 +1,151 @@
 h1{
-    color: blue;
+    color: rgb(23, 5, 5);
     font-size: 18
-    font-family:
+    font-family:medium
 }
 
+
+
 body{
-    background-color: aliceblue;
+    background-color: rgb(168, 208, 230);
 }
 
 p{
     text-indent: 20px;
 }
 
-hr{
-    color: red;
-    height: 10px;
+h2{
+    color: rgb(31, 5, 5);
+    height: 8px;
     width: 50%
+}
+
+#one{
+    position: absolute; top: 45px; left: 450px;
+    background-color: azure;
+    padding: 20px;
+    border-style: groove;
+    border-color: black;
+}
+
+#two{
+    position: absolute; top: 160px; left: 50px;
+}
+    
+
+#three{
+    position:absolute; top: 320px; left: 300px;
+}
+
+#four{
+    position: absolute; top: 760px; left: 20px;
+    background-color: azure;
+    padding: 1px;
+    border-style: groove;
+    border-color: black;
+    font-size: 20px
+    
+}
+
+#five{
+    position: absolute; top: 828px; left: 20px;
+    background-color: azure;
+    padding: 1px;
+    border-style: groove;
+    border-color: black;
+    font-size: 20px;
+}
+
+#six{
+    position: absolute; top: 919px; left: 20px;
+    background-color: azure;
+    padding: 1px;
+    border-style: groove;
+    border-color: black;
+    font-size: 20px;
+} 
+
+#seven{
+    position: absolute; top: 985px; left: 20px;
+    background-color: azure;
+    padding: 1px;
+    border-style: groove;
+    border-color: black;
+    font-size: 20px;
+}
+
+#eight{ 
+    position: absolute; top: 1065px; left: 20px;
+    background-color: azure;
+    padding: 1px;
+    border-style: groove;
+    border-color: black;
+    font-size: 20px;
+}
+
+#nine{
+    position: absolute; top: 1148px; left: 20px;
+    background-color: azure;
+    padding: 1px;
+    border-style: groove;
+    border-color: black;
+    font-size: 20px;
+}
+
+#ten{
+    position: absolute; top: 1230px; left: 20px;
+    background-color: azure;
+    padding: 1px;
+    border-style: groove;
+    border-color: black;
+    font-size: 20px;
+}
+
+#eleven{
+    position: absolute; top: 1321px; left: 20px;
+    background-color: azure;
+    padding: 1px;
+    border-style: groove;
+    border-color: black;
+    font-size: 20px;
+}
+
+#tweleve{
+    position: absolute; top: 1415px; left: 20px;
+    font-size: 18px;
+}
+
+#thirteen{
+    position: absolute; top: 1415px; left: 180px;
+    font-size: 18px;
+}
+
+#fourteen{
+    position: absolute; top: 1415px; left: 350px;
+    font-size: 18px;
+}
+
+#fifteen{
+    position: absolute; top: 1415px; left: 500px;
+    font-size: 18px;
+}
+
+#sixteen{
+    position: absolute; top: 1415px; left: 700px;
+    font-size: 18px;
+}
+
+#seventeen{
+    position: absolute; top: 1415px; left: 1000px;
+    font-size: 18px;
+}
+
+#eighteen{
+    position: absolute; top: 1460px; left: 20px;
+    font-size: 18px;
+}
+
+#nineteen{
+    position: absolute; top: 1460px; left: 220px;
+    font-size: 18px;
 }
